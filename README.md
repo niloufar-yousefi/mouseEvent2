@@ -1,6 +1,6 @@
 # Split silder
 **Just Move Your Mouse**
-![finall view](https://github.com/niloufar-yousefi/mouseEvent2/assets/156951582/4d7f8fce-fd70-448e-8e63-cba44784e176)
+![finall view](https://github.com/niloufar-yousefi/mouseEvent2/assets/156951582/e4916352-f1dc-48fe-94d6-e4aa2e256f69)
 - [Demo Project](https://niloufar-yousefi.github.io/mouseEvent2/)
 
 
